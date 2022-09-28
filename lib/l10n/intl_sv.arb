@@ -1,0 +1,114 @@
+{
+  "@@last_modified": "2020-06-19T21:53:39.706877",
+  "@@locale": "sv",
+  "requiredErrorText": "Detta fält får inte vara tomt.",
+  "@requiredErrorText": {
+    "description": "Feltext för obligatoriskt fält",
+    "type": "text",
+    "placeholders": {}
+  },
+  "minErrorText": "Värdet måste vara större än eller lika med {min}.",
+  "@minErrorText": {
+    "description": "Feltext för obligatoriskt fält",
+    "type": "text",
+    "placeholders": {
+      "min": {}
+    }
+  },
+  "minLengthErrorText": "Värdet måste ha en längd som är större än eller lika med {minLength}",
+  "@minLengthErrorText": {
+    "description": "Feltext för obligatoriskt fält",
+    "type": "text",
+    "placeholders": {
+      "minLength": {}
+    }
+  },
+  "maxErrorText": "Värdet måste vara mindre än eller lika med {max}",
+  "@maxErrorText": {
+    "description": "Feltext för obligatoriskt fält",
+    "type": "text",
+    "placeholders": {
+      "max": {}
+    }
+  },
+  "maxLengthErrorText": "Värdet måste ha en längd som är mindre än eller lika med {maxLength}",
+  "@maxLengthErrorText": {
+    "description": "Feltext för obligatoriskt fält",
+    "type": "text",
+    "placeholders": {
+      "maxLength": {}
+    }
+  },
+  "equalLengthErrorText": "Värdet måste ha en längd lika med {length}",
+  "@equalLengthErrorText": {
+    "description": "Feltext för obligatoriskt fält",
+    "type": "text",
+    "placeholders": {
+      "length": {}
+    }
+  },
+  "emailErrorText": "Detta fält kräver en giltig e-postadress.",
+  "@emailErrorText": {
+    "description": "Feltext för e-postfält",
+    "type": "text",
+    "placeholders": {}
+  },
+  "integerErrorText": "Detta fält kräver ett giltigt heltal.",
+  "@integerErrorText": {
+    "description": "Feltext för heltalsvalidator",
+    "type": "text",
+    "placeholders": {}
+  },
+  "equalErrorText": "Detta fältvärde måste vara lika med {value}.",
+  "@equalErrorText": {
+    "description": "Feltext för lika validator",
+    "type": "text",
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "notEqualErrorText": "Detta fältvärde får inte vara lika med {value}.",
+  "@notEqualErrorText": {
+    "description": "Feltext för icke-likvärdig validator",
+    "type": "text",
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "urlErrorText": "Detta fält kräver en giltig URL-adress.",
+  "@urlErrorText": {
+    "description": "Feltext för URL-fält",
+    "type": "text",
+    "placeholders": {}
+  },
+  "matchErrorText": "Värdet matchar inte mönstret.",
+  "@matchErrorText": {
+    "description": "Feltext för mönsterfält",
+    "type": "text",
+    "placeholders": {}
+  },
+  "numericErrorText": "Värdet måste vara numeriskt.",
+  "@numericErrorText": {
+    "description": "Feltext för numeriskt fält",
+    "type": "text",
+    "placeholders": {}
+  },
+  "creditCardErrorText": "Detta fält kräver ett giltigt kreditkortsnummer.",
+  "@creditCardErrorText": {
+    "description": "Feltext för kreditkortsfält",
+    "type": "text",
+    "placeholders": {}
+  },
+  "ipErrorText": "Detta fält kräver en giltig IP.",
+  "@ipErrorText": {
+    "description": "Feltext för IP-adressfält",
+    "type": "text",
+    "placeholders": {}
+  },
+  "dateStringErrorText": "Det här fältet kräver en giltig datumsträng.",
+  "@dateStringErrorText": {
+    "description": "Feltext för datumsträngfält",
+    "type": "text",
+    "placeholders": {}
+  }
+}

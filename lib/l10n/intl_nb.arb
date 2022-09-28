@@ -1,0 +1,114 @@
+{
+  "@@last_modified": "2022-09-28:53:39.706877",
+  "@@locale": "nb",
+  "requiredErrorText": "Dette feltet kan ikke være tomt.",
+  "@requiredErrorText": {
+    "description": "Feiltekst for obligatorisk felt",
+    "type": "text",
+    "placeholders": {}
+  },
+  "minErrorText": "Verdien må være større enn eller lik {min}.",
+  "@minErrorText": {
+    "description": "Feiltekst for obligatorisk felt",
+    "type": "text",
+    "placeholders": {
+      "min": {}
+    }
+  },
+  "minLengthErrorText": "Verdien må ha en lengde som er mindre enn eller lik {minLength}",
+  "@minLengthErrorText": {
+    "description": "Feiltekst for obligatorisk felt",
+    "type": "text",
+    "placeholders": {
+      "minLength": {}
+    }
+  },
+  "maxErrorText": "Verdien må være mindre enn eller lik {max}",
+  "@maxErrorText": {
+    "description": "Feiltekst for obligatorisk felt",
+    "type": "text",
+    "placeholders": {
+      "max": {}
+    }
+  },
+  "maxLengthErrorText": "Verdien må ha en lengde som er mindre enn eller lik {maxLength}",
+  "@maxLengthErrorText": {
+    "description": "Feiltekst for obligatorisk felt",
+    "type": "text",
+    "placeholders": {
+      "maxLength": {}
+    }
+  },
+  "equalLengthErrorText": "Verdien må ha en lengde lik {length}",
+  "@equalLengthErrorText": {
+    "description": "Feiltekst for obligatorisk felt",
+    "type": "text",
+    "placeholders": {
+      "length": {}
+    }
+  },
+  "emailErrorText": "Dette feltet krever en gyldig e-postadresse.",
+  "@emailErrorText": {
+    "description": "Feiltekst for e-postfelt",
+    "type": "text",
+    "placeholders": {}
+  },
+  "integerErrorText": "Dette feltet krever et gyldig heltall.",
+  "@integerErrorText": {
+    "description": "Feiltekst for heltallsvalidator",
+    "type": "text",
+    "placeholders": {}
+  },
+  "equalErrorText": "Denne feltverdien må være lik {value}.",
+  "@equalErrorText": {
+    "description": "Feiltekst for lik validator",
+    "type": "text",
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "notEqualErrorText": "Denne feltverdien må ikke være lik {value}.",
+  "@notEqualErrorText": {
+    "description": "Feiltekst for ikke-lik validator",
+    "type": "text",
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "urlErrorText": "Dette feltet krever en gyldig URL-adresse.",
+  "@urlErrorText": {
+    "description": "Feiltekst for URL-feltet",
+    "type": "text",
+    "placeholders": {}
+  },
+  "matchErrorText": "Verdien samsvarer ikke med mønsteret.",
+  "@matchErrorText": {
+    "description": "Feiltekst for mønsterfelt",
+    "type": "text",
+    "placeholders": {}
+  },
+  "numericErrorText": "Verdien må være numerisk.",
+  "@numericErrorText": {
+    "description": "Feiltekst for numerisk felt",
+    "type": "text",
+    "placeholders": {}
+  },
+  "creditCardErrorText": "Dette feltet krever et gyldig kredittkortnummer.",
+  "@creditCardErrorText": {
+    "description": "Feiltekst for kredittkortfelt",
+    "type": "text",
+    "placeholders": {}
+  },
+  "ipErrorText": "Dette feltet krever en gyldig IP.",
+  "@ipErrorText": {
+    "description": "Feiltekst for IP-adressefeltet",
+    "type": "text",
+    "placeholders": {}
+  },
+  "dateStringErrorText": "Dette feltet krever en gyldig datostreng.",
+  "@dateStringErrorText": {
+    "description": "Feiltekst for datostrengfelt",
+    "type": "text",
+    "placeholders": {}
+  }
+}

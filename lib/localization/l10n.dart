@@ -238,6 +238,7 @@ class AppLocalizationDelegate
       Locale.fromSubtags(languageCode: 'lo'),
       Locale.fromSubtags(languageCode: 'messages'),
       Locale.fromSubtags(languageCode: 'ms'),
+      Locale.fromSubtags(languageCode: 'nb'),
       Locale.fromSubtags(languageCode: 'nl'),
       Locale.fromSubtags(languageCode: 'pl'),
       Locale.fromSubtags(languageCode: 'pt'),
